@@ -1,6 +1,6 @@
-# Brawl - A simple bash-written crawler
+# Brawl
 
-This is a simple crawler taking a wordlist as a source of input.
+This is a simple bash-written crawler taking a wordlist as a source of input.
 
 # Usage
 
