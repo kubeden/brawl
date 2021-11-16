@@ -15,7 +15,7 @@ cd brawl
 chmod +x brawl.sh
 ```
 
-Execute it with the correct flags
+Execute it with the correct flags (-t for target; -w for wordlist)
 ```bash
 ./brawl.sh -t example.com -w wordlist.txt
 ```
